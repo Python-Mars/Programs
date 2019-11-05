@@ -2,7 +2,7 @@ t="Bookmyshow"
 print "\n"
 print(t.center(100))
 
-print("1. Book \t 2. Cancel \t 3. Exit")
+print("1. Book \t 2. Remaining \t 3. Cancel \t 3. Exit")
 print "\n"
 option=input("Enter the choice: ")
 print option
